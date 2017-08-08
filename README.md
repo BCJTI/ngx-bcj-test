@@ -1,10 +1,10 @@
 # ngx-bcj-test
 
-Ol? candidato. Nesse desafio voc? dever? representar uma lista de livros que ser?o requisitados da API.
+Olá candidato. Nesse desafio você deverá representar uma lista de livros que serão requisitados da API.
 
-Para facilitar j? deixamos criados o m?todo de busca de livros na class BooksDao.
+Para facilitar já deixamos criados o método de busca de livros na class BooksDao.
 
-Para concluir esse desafio voc? deve:
+Para concluir esse desafio você deve:
 
 * Adicionar a biblioteca bootstrap ao projeto;
 * Criar um component para representar uma lista de livros;
