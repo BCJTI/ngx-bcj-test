@@ -10,6 +10,7 @@ Para concluir esse desafio voc? deve:
 * Criar um component para representar uma lista de livros;
 * Criar uma rota 'search' para carregar esse component;
 * Adicionar um input de texto para filtrar os livros que ser?o representados;
+* Representar os livros com imagem, nome e nome dos autores;
 * O app precisa ser responsivo.
 
 ## Resultado final
